@@ -1,6 +1,7 @@
 ![code size](https://img.shields.io/github/repo-size/Az-eeeee/OpenReport)
 # OpenReport
 > 此项目为了致敬我们Galaxy.的外包插件 `QQ:3040373878`
+
 > ~~混淆与Utf问题未处理~~
 # 插件类型
 BC插件
